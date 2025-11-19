@@ -14,7 +14,6 @@
   <li>Practice GitHub editing & Commiting process</li>
   <li> Added HTML-Suppport Formatting</li>
 </ul>
-
 <ul>
   <li>Git Workflow (add → commit → push)</li>
   <li>Repository management</li>
