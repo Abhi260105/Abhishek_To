@@ -23,7 +23,3 @@
 </ul>
 
 <h2>Notes</h2>
-<p>
-This file will continue to evolve as I learn more about GitHub, version control, 
-and best practices for professional project documentation.
-</p>
